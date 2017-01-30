@@ -631,7 +631,7 @@ webpackJsonp([0],{
 
   exports.default = {
 
-    path: '/',
+    path: '/react-starter-kit/',
 
     action: function action() {
       var _this = this;
@@ -1506,7 +1506,7 @@ webpackJsonp([0],{
 
   exports.default = {
 
-    path: '/contact',
+    path: '/react-starter-kit/contact',
 
     action: function action() {
       var friends = [{ title: '张三', uid: '1', description: '四姓18家' }, { title: '李四', uid: '2', description: '四姓18家' }, { title: '王五', uid: '3', description: '四姓18家' }, { title: '赵六', uid: '4', description: '四姓18家' }];
@@ -3431,7 +3431,7 @@ webpackJsonp([0],{
 
   exports.default = {
 
-    path: '/discover',
+    path: '/react-starter-kit/discover',
 
     action: function action() {
       return {
@@ -4310,7 +4310,7 @@ webpackJsonp([0],{
 
   exports.default = {
 
-    path: '/me',
+    path: '/react-starter-kit/me',
 
     action: function action() {
       return {

@@ -1308,7 +1308,7 @@ webpackJsonp([0],{
                 active: this.state.tab === 0,
                 onClick: function onClick() {
                   _this2.setState({ tab: 0 });
-                  _history2.default.push('/');
+                  _history2.default.push('/react-starter-kit/');
                 },
                 icon: _react2.default.createElement('span', { className: 'iconfont icon-message', __source: {
                     fileName: _jsxFileName,
@@ -1329,7 +1329,7 @@ webpackJsonp([0],{
                   active: this.state.tab === 1,
                   onClick: function onClick() {
                     _this2.setState({ tab: 1 });
-                    _history2.default.push('/contact');
+                    _history2.default.push('/react-starter-kit/contact');
                   }, __source: {
                     fileName: _jsxFileName,
                     lineNumber: 53
@@ -1368,7 +1368,7 @@ webpackJsonp([0],{
                 active: this.state.tab === 2,
                 onClick: function onClick() {
                   _this2.setState({ tab: 2 });
-                  _history2.default.push('/discover');
+                  _history2.default.push('/react-starter-kit/discover');
                 },
                 icon: _react2.default.createElement('span', { className: 'iconfont icon-discover', __source: {
                     fileName: _jsxFileName,
@@ -1387,7 +1387,7 @@ webpackJsonp([0],{
                 active: this.state.tab === 3,
                 onClick: function onClick() {
                   _this2.setState({ tab: 3 });
-                  _history2.default.push('/me');
+                  _history2.default.push('/react-starter-kit/me');
                 },
                 icon: _react2.default.createElement('span', { className: 'iconfont icon-my', __source: {
                     fileName: _jsxFileName,
